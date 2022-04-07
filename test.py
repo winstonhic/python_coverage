@@ -1,6 +1,5 @@
 import subprocess
 # from sub_process_sample import printsomething
-import sub_process_sample
 # from subprocess import check_output
 
 
